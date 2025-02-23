@@ -2,4 +2,5 @@
 # Мини-отчет о проделанной работе на Семинаре 1  
 1. Просмотрено видео об интерфейсе и тонкостях GitHub
 2. **Создан свой репозиторий:** *[мой первый репозиторий](https://github.com/Bogdanagreen/First.git)*  
-3. ![Пройдена обучалка по ветвлению в Git!](https://github.com/Bogdanagreen/markdown-here/raw/master/src/common/images/обучалка Github.png)
+3. Пройдена обучалка по ветвлению в Git!)
+![Пройдена обучалка по ветвлению в Git!](https://github.com/BMSTU-Informatics-by-nuchyobitva/1-intro-to-github-Bogdanagreen/blob/main/studyGithub.png)
